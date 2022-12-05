@@ -1,1 +1,7 @@
-A new readme to be corrected
+My shell projects:
+
+Shell Basics
+
+Shell Permission
+
+Shell I/O Redirections and filters
