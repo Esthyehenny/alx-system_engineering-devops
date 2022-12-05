@@ -1,1 +1,1 @@
-This is my Shell Basics and Permission Project
+A new readme to be corrected
